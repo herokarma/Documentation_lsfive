@@ -1,12 +1,8 @@
 # Pour commencer
 
 {% hint style="info" %}
-**Responsable:** LS FIVE  
-**Tags:** Guides et procédures
+💡 **Conseil du Staff :** Bienvenue sur le WIKI LS Five, ici vous trouverez toutes les astuces afin de profiter au mieux de votre serveur favori.
 {% endhint %}
-<aside>
-💡<strong>Conseil du Staff :</strong>Bienvenue sur le WIKI LS Five, ici vous trouverez toutes les astuces afin de profiter au mieux de votre serveur favori.
-</aside>
 
 ## Welcome to Los Santos
 La ville où tout est possible…
