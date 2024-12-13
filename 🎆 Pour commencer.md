@@ -1,8 +1,9 @@
 # Pour commencer
 
-Responsable: LS FIVE
-Tags: Guides et procédures
-
+{% hint style="info" %}
+**Responsable:** LS FIVE  
+**Tags:** Guides et procédures
+{% endhint %}
 <aside>
 💡<strong>Conseil du Staff :</strong>Bienvenue sur le WIKI LS Five, ici vous trouverez toutes les astuces afin de profiter au mieux de votre serveur favori.
 </aside>
