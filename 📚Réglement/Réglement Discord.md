@@ -1,4 +1,4 @@
-# <img src="/images/unnamed.png" width="40px" />Règlement Discord
+# Reglement Discord
 
 <aside>
 <img src="/images/unnamed.png" alt="unnamed.png" width="40px" /> **Obligatoire : En rejoignant le serveur vous devez obligatoirement renseigner le nom de votre personnage ‘Prénom + Nom’  à la place de votre pseudo Discord ce nom devra correspondre parfaitement avec le nom donné sur Five M.**
