@@ -1,4 +1,4 @@
-# Pour commencer
+# 🎆 Pour commencer
 
 {% hint style="info" %}
 💡 **Conseil du Staff :** Bienvenue sur le WIKI LS Five, ici vous trouverez toutes les astuces afin de profiter au mieux de votre serveur favori.
