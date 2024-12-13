@@ -10,22 +10,22 @@ Tags: Guides et procédures
 ## Welcome to Los Santos
 La ville où tout est possible…
 
-![Image WIKI 2.png](/images/Image_WIKI_2.png)
+![](/images/Image_WIKI_2.png)
 
 
 ## En cas de problème en jeu :
 
 Contactez un STAFF en allant dans le **CHAT** *In Game* en appuyant sur la touche **T :**
 
-![image.png](./images/chat.png)
+![](./images/chat.png)
 
 Saisissez la commande suivante : **/report puis ENTER**
 
-![image.png](/images/report.png)
+![](/images/report.png)
 
 Cette fenêtre va s’ouvrir :
 
-![image.png](./images/report_2.png)
+![](./images/report_2.png)
 
 Sélectionnez la catégorie :
 
@@ -40,7 +40,7 @@ exemple : ”Bloqué dans un endroit”
 Dans **INFORMATION**, décrivez précisément ce qui se passe en utilisant des phrases compréhensibles, pas d’abréviation et en usant de politesse.
 exemple : ”Bonjour, je suis bloqué dans le showroom du PDM, pourriez vous m’aider s’il vous plait ?”
 
-![image.png](./images/report_3.png)
+![](./images/report_3.png)
 
 Puis cliquez sur **SUBMIT** pour envoyer votre report. Une notification apparaît en haut et à droite de votre écran 
 
@@ -55,11 +55,11 @@ Lorsque que quelqu’un vous répond, une notification apparaît en haut et à d
 
 Faite de nouveau la commande **/REPORT** pour accéder à la réponse.
 
-![image.png](./images/report.png)
+![](./images/report.png)
 
 Vous arriverez sur la même fenêtre que tout à l’heure mais le chat entre vous et le Modérateur LS Five.
 
-![image.png](./images/report_4.png)
+![](./images/report_4.png)
 
 A tout moment le Modérateur pourra se joindre à vous ou vous téléporter à lui pour résoudre votre souci. Le Modérateur fera toujours en sorte d’éviter de couper une scène RP.
 Si la situation l’exige le Modérateur stoppera la scène si il juge que la situation devient critique.
