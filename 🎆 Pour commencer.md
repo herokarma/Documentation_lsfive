@@ -11,7 +11,7 @@ Tags: Guides et procédures
 ## Welcome to Los Santos
 La ville où tout est possible…
 
-![Image WIKI 2.png](./images/Image_WIKI_2.png)
+![Image WIKI 2.png](/images/Image_WIKI_2.png)
 
 
 ## En cas de problème en jeu :
