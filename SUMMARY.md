@@ -4,7 +4,7 @@
   * [🎆Pour commencer](<Bienvenue/Pour commencer.md>)
   * [📚Réglement](bienvenue/reglement/README.md)
     * [Réglement Discord](<Bienvenue/📚Réglement/Réglement Discord.md>)
-    * [<img src="/images/discord-icon.png" alt="Discord Icon" width="20" height="20"/> Réglement Serveur](Bienvenue/📚Réglement/Réglement%20Serveur.md)    
+    * [![Réglement Serveur](/images/discord-icon.png)](Bienvenue/📚Réglement/Réglement%20Serveur.md)    
     * [Réglement mort RP](<Bienvenue/📚Réglement/Réglement mort RP.md>)
 * [Economie](economie/README.md)
   * [Démarrage](Economie/Démarrage.md)
