@@ -49,10 +49,10 @@ modérateurs se réservent le droit de déconnecter, de mettre en sourdine, d’
 - Toute remarque désagréable, insulte, menace à l’égard de nos membres Staff entraînera une exclusion immédiate.
 - Il est strictement interdit de contacter en Message Privé les Responsables du serveur ainsi qu’un membre de l’équipe Staff sans en avoir été invité.
 
-<aside>
+{% hint style="alert" %}
 ⚠️ Ce serveur est avant tout un lieu de divertissement et de communication autour d’une activité ludique, de ce fait nous invitons tous les membres à informer l’équipe de modération en cas de non-respect des règles citées précédemment.
+{% endhint %}
 
-</aside>
 
 **@Fondateur
 @Responsable Modération**
