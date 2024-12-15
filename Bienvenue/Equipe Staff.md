@@ -19,8 +19,8 @@ icon: shield
 - **Co-Fondateur :** @Ayzem
 
 - **Responsable Modération :** @Ejet
-- **Modération :** @Liam Curt, @Ederson
-- **Assistance :** @Price, @Breacher
+- **Modération :** 
+- **Assistance :** @Razmo
 
 **Equipe de développement :**
 
@@ -29,8 +29,8 @@ icon: shield
 
 **Equipe animation :**
 
-- **Pôle Légal :** @Ejet, @Price
-- **Pôle Illégal :** @Ederson
+- **Pôle Légal :** @Ejet
+- **Pôle Illégal :** @Price
 
 **Comment reporter un problème :**
 
