@@ -1,6 +1,6 @@
----
+----
 icon: discord
----
+----
 
 # Réglement Discord
 
